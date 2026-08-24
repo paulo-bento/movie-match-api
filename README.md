@@ -197,23 +197,6 @@ Retorna os 10 filmes com maior média de nota (que tenham pelo menos 1 avaliaç�
 
 ---
 
-## ✅ Requisitos atendidos
-
-- [x] `.env`
-- [x] `BaseModel`
-- [x] Soft Delete
-- [x] Versionamento da API (`/api/v1/`)
-- [x] Autenticação JWT
-- [x] Pelo menos 3 modelos (Filme, Gênero, Avaliação, CustomUser)
-- [x] Documentação com Swagger
-- [x] CRUD completo (serializer, viewset, router)
-- [x] Paginação
-- [x] Cache nas listagens
-- [x] Search com `query_params`
-- [x] Apresentação com Postman
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```
